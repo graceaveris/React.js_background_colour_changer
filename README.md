@@ -1,6 +1,6 @@
 **Day Eighteen - 30 days of React challenge - "Background Colour Changer" app**
 
-An app which allows the user to change the background colour of the interfact using a form.
+An app which allows the user to change the background colour of the interfact using a form. 
 
 **Concepts Explored:**
 - Passing data from the child to the parent
